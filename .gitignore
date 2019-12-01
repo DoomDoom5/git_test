@@ -1,1 +1,16 @@
+
 *.ipch
+즐거운 파티/.vs/즐거운 파티/v16/.suo
+*.db
+*.idb
+*.pdb
+*.tlog
+*.obj
+*.ilk
+*.user
+*.filters
+*.log
+*.exe
+키위주스/.vs/키위주스/v16/.suo
+*.vcxproj
+*.sln
